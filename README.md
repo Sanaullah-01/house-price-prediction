@@ -1,9 +1,9 @@
-🏡 House Price Prediction – Machine Learning Project
+🏡 **House Price Prediction – Machine Learning Project**
 
 This project builds a Machine Learning model to predict house prices using the California Housing Dataset.
 It includes data loading, preprocessing, exploratory data analysis (EDA), visualization, model training, model comparison, and feature importance analysis.
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project demonstrates:
 
@@ -29,7 +29,7 @@ R² Score
 
 Extracting feature importance from the Random Forest model
 
-📁 Dataset Used
+📁 **Dataset Used**
 
 The project uses the built-in California Housing dataset from sklearn.datasets.
 
@@ -55,7 +55,7 @@ Target
 
 Median house value (in $100,000s)
 
-🔍 Exploratory Data Analysis (EDA)
+🔍** Exploratory Data Analysis (EDA)**
 
 The project performs:
 
@@ -69,7 +69,7 @@ Heatmap visualization showing feature relationships
 
 This helps identify which features influence house prices most strongly.
 
-🤖 Models Trained
+🤖 **Models Trained**
 1. Linear Regression
 
 A basic regression model used as a baseline.
@@ -80,7 +80,7 @@ An advanced ensemble ML model that helps improve performance and capture non-lin
 
 The model also provides feature importance, which highlights which features influence prediction the most.
 
-📊 Evaluation Metrics
+📊 **Evaluation Metrics**
 
 Both models are evaluated using:
 
@@ -92,7 +92,7 @@ R² Score
 
 These metrics help compare model accuracy and performance.
 
-🧪 Technologies Used
+🧪 **Technologies Used**
 
 Python
 
@@ -106,9 +106,9 @@ Seaborn (if used for visuals)
 
 Scikit-Learn
 
-▶️ How to Run the Project
+▶️ **How to Run the Project**
 1. Clone the Repository
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone (https://github.com/Sanaullah-01/house-price-prediction.git)
 cd house-price-prediction
 2. Install Dependencies
 pip install -r requirements.txt
@@ -120,7 +120,7 @@ jupyter notebook
 
 Run the notebook cells to train models and view results.
 
-📈 Feature Importance Example
+📈 **Feature Importance Example**
 
 The Random Forest model ranks features by importance.
 Typical top contributors include:
@@ -135,11 +135,12 @@ Average Rooms
 
 This helps understand which factors affect housing prices the most.
 
-🗂️ Project Structure
+🗂️** Project Structure**
 │-- AI_Project.ipynb            # Main notebook
 │-- README.md                    # Project documentation
 │-- requirements.txt (optional)
-📬 Future Improvements
+
+📬 **Future Improvements**
 
 Add hyperparameter tuning (GridSearchCV, RandomizedSearch)
 
@@ -149,7 +150,8 @@ Add more visualizations
 
 Deploy the model on cloud
 
-🙌 Author
+
+🙌 **Author**
 
 Created by Sana Ullah
 Machine Learning Project – House Price Prediction
